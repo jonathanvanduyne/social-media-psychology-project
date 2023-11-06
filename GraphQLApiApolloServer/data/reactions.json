@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "label": "Like",
+        "image_url": "https://www.nicepng.com/png/detail/32-324680_like-emoji-smiley-face-thumbs-up.png"
+    },
+    {
+        "id": 2,
+        "label": "Dislike",
+        "image_url": "https://static.vecteezy.com/system/resources/previews/010/228/299/original/cartoon-emoticon-dislike-vector.jpg"
+    },
+    {
+        "id": 3,
+        "label": "Heart",
+        "image_url": "https://www.i2symbol.com/pictures/emojis/2/d/2/0/2d20d385119ed204dbf757151de0a1c9.png"
+    },
+    {
+        "id": 4,
+        "label": "Laugh",
+        "image_url": "https://png.pngtree.com/png-vector/20210117/ourmid/pngtree-3d-laugh-emoji-emoticon-png-vector-clipart-transparant-background-png-image_2762333.jpg"
+    },
+    {
+        "id": 5,
+        "label": "Sad",
+        "image_url": "https://freepngimg.com/thumb/sad_emoji/36807-4-sad-emoji-clipart.png"
+    },
+    {
+        "id": 6,
+        "label": "Angry",
+        "image_url": "https://freepngimg.com/thumb/emoji/102696-gradient-angry-emoji-free-download-image.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "post": 1,
+        "user": 1,
+        "content": "You have excellent taste.",
+        "published_on": "2020-08-05T14:48:00Z",
+        "flagged": false,
+        "approved": true
+    },
+    {
+        "id": 2,
+        "post": 1,
+        "user": 2,
+        "content": "That seems to be some shameless self-promotion.",
+        "published_on": "2020-08-05T14:48:00Z",
+        "flagged": false,
+        "approved": true
+    },
+    {
+        "id": 3,
+        "post": 2,
+        "user": 1,
+        "content": "I'm so glad I got to see this.",
+        "published_on": "2020-08-05T14:48:00Z",
+        "flagged": false,
+        "approved": true
+    },
+    {
+        "id": 4,
+        "post": 2,
+        "user": 2,
+        "content": "Again, please stop complimenting your own work.",
+        "published_on": "2020-08-05T14:48:00Z",
+        "flagged": false,
+        "approved": true
+    },
+    {
+        "id": 5,
+        "post": 3,
+        "user": 1,
+        "content": "Ehh, it's ok, I guess.",
+        "published_on": "2020-08-05T14:48:00Z",
+        "flagged": false,
+        "approved": true
+    },
+    {
+        "id": 6,
+        "post": 3,
+        "user": 2,
+        "content": "You, sir, are no friend of the arts.",
+        "published_on": "2020-08-05T14:48:00Z",
+        "flagged": false,
+        "approved": true
+    },
+    {
+        "id": 7,
+        "post": 4,
+        "user": 1,
+        "content": "What the heck is this supposed to be?",
+        "published_on": "2020-08-05T14:48:00Z",
+        "flagged": false,
+        "approved": true
+    },
+    {
+        "id": 8,
+        "post": 4,
+        "user": 1,
+        "content": "Mountains, duh",
+        "published_on": "2020-08-05T14:48:00Z",
+        "flagged": false,
+        "approved": true
+    }
+]

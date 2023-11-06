@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "label": "Health"
+    },
+    {
+        "id": 2,
+        "label": "Sports"
+    },
+    {
+        "id": 3,
+        "label": "Technology"
+    },
+    {
+        "id": 4,
+        "label": "Science"
+    },
+    {
+        "id": 5,
+        "label": "Business"
+    },
+    {
+        "id": 6,
+        "label": "Entertainment"
+    },
+    {
+        "id": 7,
+        "label": "Politics"
+    },
+    {
+        "id": 8,
+        "label": "Opinion"
+    },
+    {
+        "id": 9,
+        "label": "Education"
+    },
+    {
+        "id": 10,
+        "label": "Food"
+    },
+    {
+        "id": 11,
+        "label": "Weather"
+    }
+]
